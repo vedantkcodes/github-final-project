@@ -1,0 +1,5 @@
+curl -L \
+  -H "Accept: application/vnd.github+json" \
+  https://api.github.com/repos/vedantkcodes/github-final-project
+
+[PASTE THE COMPLETE CURL OUTPUT HERE]
