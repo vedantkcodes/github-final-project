@@ -23,3 +23,4 @@ Run the script using:
 bash simple-interest.sh
 
 The user will be prompted to enter the principal, rate of interest, and time period. The calculator then displays the calculated simple interest.
+
